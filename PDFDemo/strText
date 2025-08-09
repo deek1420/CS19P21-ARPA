@@ -1,0 +1,28 @@
+Demo Company INVOICE
+Invoice No. I1083
+Demo Company Account # C1006
+1234 Main Street Date 08-14-2008
+Ashland, KY 41102 Due By 08-31-2008
+Terms None
+Phone : 111-222-3333 PO No. PO1234
+E-Mail : 333-444-4444 Sales Rep SalesPerson1
+Web : http://www.ksoftware.net
+
+Bill To Ship To
+Test Customer Test Customer
+1234 Main Street 1234 Main Street
+Ashland, KY 41101 Ashland,  41101
+
+Code Description QTY Price T Line Total
+
+SKU1222 Test Import Name - Description Goes Here 1 $10.00 Y $10.00
+
+Labor - Example labor item. Quantity is number of hours 1.5 $100.00 N $150.00
+spent, price is hourly rate. Quantity accepts decimal values.
+
+Shipping $10.00 Tax $0.78 Subtotal $160.00
+UPS Ground Total $170.78
+Payments (-) $0.00
+An invoice note can go here. Multi-line and even multi-page notes are supported. Balance Due $170.78
+
+An invoice footer can go here
